@@ -1,0 +1,21 @@
+h1{
+   background-color:pink;
+   text-align:center;
+   color:black;
+}
+*{
+    background-color:yellow;
+}
+a:hover{
+    color:green;
+    font-size:30px;
+
+}
+p::first-letter
+{
+    font-size:40px;
+    text-align:center;
+}
+a:visited{
+    color:red;
+}
